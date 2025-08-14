@@ -1,8 +1,6 @@
 import { FaWifi, FaCouch, FaTree, FaSnowflake, FaMusic, FaDog, FaPlug, FaBook, FaWheelchair, FaMugHot , FaShoppingBag } from "react-icons/fa";
-<<<<<<< HEAD
-=======
+
 import "..src/components/Service.css";
->>>>>>> 98dcce80e536d938165d1a9a6f4eb5621599c428
 import bgimage from "../assets/serviceimg.jpg";
 
 function Facilities() {
