@@ -1,0 +1,11 @@
+.service-page {
+  background-image: url('../assets/serviceimg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Full height */
+  padding: 50px 0; /* Space around cards */
+}
+.custom-border{
+    border: 2px solid black;
+}
