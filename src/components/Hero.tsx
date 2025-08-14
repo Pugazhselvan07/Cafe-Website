@@ -11,7 +11,7 @@ function Hero() {
   }
 
   const handlevisitus = () =>{
-    navigate('/About')
+    navigate('/Contact')
   }
 
 
